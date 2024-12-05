@@ -5,7 +5,5 @@
 ### Introdução
 - [introdução ao *git*](./git-teste.md)
 - [introdução ao *github*](./github-teste)
-- o que é versionamento de código
+- [entendendo as *branches*](./branch-teste)
 
-### Branch 
-- permite alteração de código sem código principal *main*
